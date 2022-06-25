@@ -1,3 +1,13 @@
+.navbar{
+    background-color: rgb(1, 2, 18);
+    border-radius: 0 0 8px 8px;
+    
+}
+.navbar a{
+    color: white !important;
+    font-weight: 700 !important;
+
+}
 .carousel-item{
     background-color: #fceae8;
     padding-left: 40px;
@@ -9,6 +19,9 @@
 }
 .carousel-item .col-md-7{
     padding-top: 160px;
+}
+.carousel-div{
+    margin-top: 85px;
 }
 .carousel-item .col-md-7 .price-tag{
     color: #FF136F;
@@ -69,4 +82,13 @@
 .title-cat{
     margin-left: 30px;
 }
-
+.contact-row{
+    background-color: #eca59d;
+    justify-items: center;
+    text-align: center;
+    align-items: center;
+    height: 300px;
+}
+.details{
+    
+}
