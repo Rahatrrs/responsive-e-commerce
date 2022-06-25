@@ -3,6 +3,12 @@
     border-radius: 0 0 8px 8px;
     
 }
+.navbar-toggler-icon{
+    background-color: white;
+}
+.navbar-toggler{
+    background-color: white;
+}
 .navbar a{
     color: white !important;
     font-weight: 700 !important;
